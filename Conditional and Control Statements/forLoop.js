@@ -1,0 +1,5 @@
+var messsage = "Hello World!";
+
+for (var i =1; i < 11; i++){
+    console.log(messsage+" " + i);
+}
