@@ -2,6 +2,7 @@
 
 var scores = [60, 80, 90, 75];
 for(var score of scores){
+    score += 5;
     console.log(score);
 }
 console.log("--------------------------------------");
